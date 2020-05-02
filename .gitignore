@@ -1,0 +1,6 @@
+# ide
+.idea
+cmake-build-debug
+
+# temp file
+*Makefile
